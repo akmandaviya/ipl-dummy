@@ -1,24 +1,4 @@
 # ipl-dummy
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ 
+ This project is based on Vue 3 - composition api for frontend development
+ for CSS - Bootstrap 5, inline CSS and external CSS
